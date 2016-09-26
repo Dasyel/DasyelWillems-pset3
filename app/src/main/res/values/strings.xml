@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Watchlist</string>
+    <string name="search_hint">Search</string>
+    <string name="title_placeholder">Movie Title</string>
+    <string name="description_placeholder">Movie Description</string>
+    <string name="actor_placeholder">Actors</string>
+    <string name="to_list_button">Add to Watchlist</string>
+    <string name="on_list_button">Remove from Watchlist</string>
+    <string name="no_results_msg">No results where found, please try another query.</string>
+    <string name="SP_KEY">com.dasyel.dasyelwillems_pset3.SP_KEY</string>
+    <string name="ID_LIST_KEY">com.dasyel.dasyelwillems_pset3.ID_LIST_KEY</string>
+    <string name="QUERY_KEY">com.dasyel.dasyelwillems_pset3.QUERY_KEY</string>
+    <string name="OLD_QUERY_KEY">com.dasyel.dasyelwillems_pset3.OLD_QUERY_KEY</string>
+    <string name="MAIN_BOOL_KEY">com.dasyel.dasyelwillems_pset3.MAIN_BOOL</string>
+</resources>

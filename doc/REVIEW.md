@@ -5,8 +5,8 @@ Beoordeeld door Corneel den Hartogh
 - HashSet hs en SharedPreferenceWrapper sp
 
 #headers
--Weinig headers dus onduidelijk waar sommige classes toe dienen
--MovieApi, interfaces
+- Weinig headers dus onduidelijk waar sommige classes toe dienen
+- MovieApi, interfaces
 
 #comments
 - Sommige functies kan commentaar wat meer inzicht geven in wat de functie doet.
